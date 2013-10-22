@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<level width = "6">
+    	 
+    <entity type="line" index="0" red="1" green="0.9" blue="0" corners="3" firstXCoor ="320" firstYCoor="720" secondYCoor="640" X0="0" Y0="-128" X1="0" Y1="-128" X2="0" Y2="-256"/>	
+    <entity type="line" index="1" red="1" green="0" blue="1" corners="2" X0="0" Y0="-256" X1="64" Y1="-256" />
+    <entity type="line" index="2" red="0.5" green="0" blue="1" corners="2" X0="128" Y0="-256" X1="0" Y1="-256" />
+    <entity type="line" index="3" red="0" green="1" blue="0" corners="4" X0="0" Y0="-96" X1="64" Y1="0" X2="128" Y2="-256" X3="0" Y3="-160" />	
+    <entity type="line" index="4" red="1" green="0" blue="0" corners="3" X0="32" Y0="-192" X1="-96" Y1="-256" X2="320" Y2="-64"/>	
+    <entity type="line" index="5" red="0.5" green="1" blue="0.5" corners="5" X0="0" Y0="-64" X1="64" Y1="0" X2="128" Y2="-256" X3="64" Y3="-128" X4="64" Y4="-64" />		    	    		    
+</level>
